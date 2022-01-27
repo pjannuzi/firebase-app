@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "906709666761",
+    "project_id": "pedro-4f022",
+    "storage_bucket": "pedro-4f022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906709666761:android:7300366e225488d9f73618",
+        "android_client_info": {
+          "package_name": "com.example.fbaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906709666761-g42c747321qvv880e5m38ln274ifl8at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2TIEyeFjr44pwn-vhzPgVecJ8rJgwlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906709666761-g42c747321qvv880e5m38ln274ifl8at.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906709666761-ekpc15figgmoemmo5nr59kvrnotcosf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "a"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
